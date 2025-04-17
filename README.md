@@ -37,4 +37,4 @@ O programa está estruturado da seguinte forma:
 
 1. Copie o código do programa que está na pasta **Programa**.
 2. Cole em um terminal que rode código Python (como o VS Code, Thonny, ou IDLE).
-3. Execute o código para jogar.
+3. Execute o código para utiliza-lo.
